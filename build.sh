@@ -1,0 +1,1 @@
+sudo docker build -t custom_redis:v1 .

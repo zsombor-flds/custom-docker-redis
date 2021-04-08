@@ -1,0 +1,1 @@
+sudo docker exec -it custom_redis redis-cli
